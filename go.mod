@@ -2,12 +2,12 @@ module github.com/RichardKnop/machinery
 
 require (
 	cloud.google.com/go v0.31.0
+	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/RichardKnop/logging v0.0.0-20180729160517-75cec7213f7c
 	github.com/RichardKnop/redsync v1.2.0
 	github.com/aws/aws-sdk-go v1.15.66
 	github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/garyburd/redigo v2.0.0+incompatible // indirect
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/uuid v1.0.0
 	github.com/googleapis/gax-go v2.0.0+incompatible // indirect
